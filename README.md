@@ -1,1 +1,0 @@
-# Coherence-Enhancing-Diffusion-filtering-opencv
